@@ -1,6 +1,6 @@
 # WIP, i.e. DOES NOT WORK
 
-This is a fork of [intellij-beancount][https://github.com/Ramblurr/intellij-beancount] plugin to support Ledger-specific syntax and features. It doesn't work properly with Ledger files right now. Work in progress.
+This is a fork of the [intellij-beancount](https://github.com/Ramblurr/intellij-beancount) plugin to support Ledger-specific syntax and features. It doesn't work properly with Ledger files right now. Work in progress.
 
 # Ledger plugin
 

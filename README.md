@@ -1,21 +1,12 @@
-# Beancount plugin
+# WIP, i.e. DOES NOT WORK
 
-This is a plugin that adds support for [Beancount][bc] to JetBrains IDEs.
+This is a fork of [intellij-beancount][https://github.com/Ramblurr/intellij-beancount] plugin to support Ledger-specific syntax and features. It doesn't work properly with Ledger files right now. Work in progress.
 
-![screenshot](screenshot.png)
+# Ledger plugin
 
-Features:
+This is a plugin that adds support for [Ledger][ledger] to JetBrains IDEs
 
-* Syntax highlighting
-* Completion: account names, currencies, directives
-* Formatting
-
-Roadmap:
-
-* date completion
-* bean-check execution
-* bean-doctor execution
-* inspection: transactions balance to 0
+# Original notes from intellij-beancount
 
 ### Contributing
 
@@ -89,4 +80,4 @@ Corresponding Source for a non-source form of such a combination shall include
 the source code for the parts of Intellij IDEA Community Edition used as well
 as that of the covered work.
 
-[bc]:http://furius.ca/beancount/
+[ledger]:https://www.ledger-cli.org/

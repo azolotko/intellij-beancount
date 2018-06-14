@@ -57,6 +57,7 @@ from [www.flaticon.com](https://www.flaticon.com/) is licensed by
 [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
 
 Copyright (C) 2018 Casey Link
+Copyright (C) 2018 Alex Zolotko
 
 This program is free software; you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software

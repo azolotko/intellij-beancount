@@ -1,14 +1,12 @@
 <idea-plugin>
-    <id>com.outskirtslabs.beancount</id>
-    <name>Beancount</name>
+    <id>me.zolotko.ledger</id>
+    <name>Ledger</name>
     <version>0.1</version>
-    <vendor email="unnamedrambler@gmail.com" url="https://caseylink.com">Casey Link</vendor>
+    <vendor email="azolotko@gmail.com" url="https://zolotko.me">Alex Zolotko</vendor>
 
     <description><![CDATA[
-  <p>Adds beancount support to Jetbrains IDEs</p>
-  <p>Beancount is "A double-entry bookkeeping computer language that lets you define financial
-  transaction records in a text file, read them in memory, generate a variety of reports from
-  them [...]"</p>
+  <p>Adds Ledger support to Jetbrains IDEs</p>
+  <p>Ledger is a powerful, double-entry accounting system that is accessed from the UNIX command-line."</p>
   <p>Features</p>
   <ul>
     <li>Syntax highlighting</li>
